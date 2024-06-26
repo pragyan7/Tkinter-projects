@@ -4,4 +4,5 @@
 * Generate passwords of custom length
 * Include or exclude uppercase letters, lowercase letters, numbers, and special characters
 * Copy the generated password to the clipboard automatically
-* The saved websites, usernames and passwords are stored in a data.txt file
+* The saved websites, usernames and passwords are stored in a data.json file
+* Search for the already existing wesite and saved password
