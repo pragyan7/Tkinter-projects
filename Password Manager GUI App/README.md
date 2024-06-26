@@ -1,7 +1,6 @@
-#Tkinter Password Generator
-Welcome to the Tkinter Password Generator! This is a simple application built using Python's Tkinter library to generate secure, random passwords. The application provides options to customize the length and complexity of the passwords.
+**Tkinter Password Generator** is a simple application built using Python's Tkinter library to generate secure, random passwords. The application provides options to customize the length and complexity of the passwords.
 
-##Features
+**Features**
 * Generate passwords of custom length
 * Include or exclude uppercase letters, lowercase letters, numbers, and special characters
 * Copy the generated password to the clipboard automatically
